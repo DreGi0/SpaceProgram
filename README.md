@@ -1,4 +1,4 @@
-# STELLAR PROGRAM
+# SPACE PROGRAM
 <!--
 [![build](https://github.com/DreGi0/apogee/actions/workflows/build.yml/badge.svg)](https://github.com/DreGi0/apogee/actions/workflows/build.yml) ![C++20](https://img.shields.io/badge/C%2B%2B-20-blue)
 -->
